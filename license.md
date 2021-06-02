@@ -1,4 +1,4 @@
-[< К содержанию](./README.md)
+[< К содержанию](./readme.md)
 
 Copyright 2021 Bukin
 
